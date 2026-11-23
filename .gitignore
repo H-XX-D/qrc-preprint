@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.coverage
+*.aux
+*.log
+*.out
+*.toc
+# files written when the cosmology harness is re-run (reference copies are in expected_output/)
+checks/cosmology/validation_results.json
+checks/cosmology/model_results.json
+checks/cosmology/repo_claims_results.json
