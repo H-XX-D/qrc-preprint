@@ -1,17 +1,17 @@
 # Quantum Relational Causality: preprint and checks
 
-Version 1.0.0. Preprint: `paper/qrc_preprint.pdf` (16 pages), source `paper/qrc_preprint.tex`.
+Version 1.0.0. Preprint: `paper/qrc_preprint.pdf` (17 pages), source `paper/qrc_preprint.tex`.
 
 ## What QRC is
 
-Quantum Relational Causality (QRC) is a research program by an independent researcher. Its
-starting proposal is that space in its underlying condition is zero-dimensional and
-nonlocal, that particle fields are one-dimensional and electromagnetic excitations
-two-dimensional, and that their composition supports the three-dimensional world, with
-time as the fourth dimension that encompasses its history. Its measurement principle is:
-distance is the inferred measurement of causal impedance; causal impedance does not cause
-a separate quantity called distance. The program is organised as a sequence of gates,
-each a proof obligation with a stated pass condition.
+Quantum Relational Causality (QRC) is an independent research program investigating discrete
+relational actions on matching groupoids. Its governing operational principle is that
+**distance is the inferred measurement of causal impedance** between physical states, rather than
+an independent background container. 
+
+The program explores whether spatial dimensionality, gauge symmetries, and metric structures can be
+recovered from combinatorial relations without positing continuous space as a primitive. The project's
+proof obligations are organised into a sequence of explicit, falsifiable gates.
 
 ## What the preprint claims
 
